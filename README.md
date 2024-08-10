@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hea</h1>
-<h3 align="center">A passionate full stack developer from Cambodia</h3>
+<h3 align="center">A Full stack developer from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heayem&label=Profile%20views&color=0e75b6&style=flat" alt="heayem" /> </p>
 
