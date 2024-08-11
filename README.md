@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hea</h1>
-<h3 align="center">A Full stack developer from Cambodia</h3>
+<h3 align="center">A full stack developer from Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heayem&label=Profile%20views&color=0e75b6&style=flat" alt="heayem" /> </p>
 
@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yem-hea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yem-hea" height="30" width="40" /></a>
+<a href="https://fb.com/yem.hea.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yem.hea.54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
